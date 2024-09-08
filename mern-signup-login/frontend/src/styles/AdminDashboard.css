@@ -1,0 +1,16 @@
+.admin-dashboard {
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+
+.admin-dashboard h1 {
+    color: #333;
+}
+
+.dashboard-content {
+    margin-top: 20px;
+}
+
+.error {
+    color: red;
+}
